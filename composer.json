@@ -1,0 +1,19 @@
+{
+  "name": "daffajulistyo/belajar-php-composer-hello",
+  "description": "Library Composer Hello",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Daffajulistyo\\Belajar\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "daffajulistyo",
+      "email": "daffajulistyo88@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  }
+}
