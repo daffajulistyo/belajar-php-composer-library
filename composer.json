@@ -1,5 +1,5 @@
 {
-  "name": "daffajulistyo/belajar-php-composer-hello",
+  "name": "daffajulistyo/belajar-php-composer-library",
   "description": "Library Composer Hello",
   "type": "library",
   "autoload": {
